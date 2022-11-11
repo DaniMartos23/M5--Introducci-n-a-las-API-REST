@@ -1,0 +1,12 @@
+1.GET https://restcountries.com/v3.1/all
+2.GET https://restcountries.com/v3.1/name/spain
+3.GET https://restcountries.com/v3.1/name/New Zealand?fullText=true
+4.GET https://restcountries.com/v3.1/alpha/ID
+5.GET https://restcountries.com/v3.1/alpha?codes=us,gb,es
+6.GET https://restcountries.com/v3.1/currency/dollar
+7.GET https://restcountries.com/v3.1/lang/spanish
+8.GET https://restcountries.com/v3.1/capital/dublin
+9.GET https://restcountries.com/v2/callingcode/62
+10.GET https://restcountries.com/v3.1/region/europe
+11.GET https://restcountries.com/v2/regionalbloc/eu
+12.GET https://restcountries.com/v2/all?fields=name,region,currencies
